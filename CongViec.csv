@@ -1,0 +1,6 @@
+﻿MaCV,TenCV,Loại hình,Công việc yêu cầu
+CV01,Khảo sát địa chất bờ sông,Engineering,
+CV02,Hàn khung dầm thép nhịp chính,Construction,CV01
+CV03,Kiểm tra cường độ bê tông móng,QA/QC,CV01
+CV04,Đào đất hố móng trụ cầu,Earthwork,CV01;CV02
+CV05,Phê duyệt bản vẽ thi công dầm,Engineering,CV03
